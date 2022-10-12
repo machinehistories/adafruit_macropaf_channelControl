@@ -1,2 +1,2 @@
-# adafruit_macropaf_channelControl
+# adafruit_macropap_midi_channelControl
  
